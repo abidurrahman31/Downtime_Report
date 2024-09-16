@@ -88,9 +88,10 @@ Automatic data refreshes were scheduled to keep the dashboard up-to-date with th
 ![Dashboard_upload](https://github.com/abidurrahman31/Downtime_Report/assets/162081738/da72ab42-af14-4c20-923e-99a02133c074)
 
 
- 
 
-   
+https://github.com/user-attachments/assets/3356f9a2-a439-45b8-ab8a-65acf9697427
+
+
  
 
 
